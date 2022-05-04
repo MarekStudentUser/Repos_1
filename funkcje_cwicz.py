@@ -27,9 +27,4 @@ def pierwiastkuj(x):
         print(a)
     return a
 
-# slowo = [2,5,8,4,9,2,4,1,1]
-# print(dlugosc(slowo))
-# print(minimum(slowo))
-#
-# print(alternatywa(2,1))
 print(pierwiastkuj(9))
